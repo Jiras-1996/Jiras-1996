@@ -2,7 +2,7 @@
 - **Jiras Adthsutanan**
 - 1996s (26-Years-old)
 - ⚡ Fun fact : **Learn – Condense – Share**
-- 🔭 I’m currently working on Scientist | Content Developer
+- 🔭 I’m currently working on **Scientist** | **Content Developer**
 - 🤔 I’m looking for a new career opportunity as a **Data Analyst**
 
 ![Save's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiras-1996&layout=compact&theme=dracula)
