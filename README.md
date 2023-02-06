@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Scientist** | **Content Developer**
 - 🤔 I’m looking for a new career opportunity as a **Data Analyst**
 
-![Save's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiras-1996&layout=compact&theme=dracula)
+![Jay's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiras-1996&layout=compact&theme=dracula)
 
 <!--
 **Jiras-1996/Jiras-1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
