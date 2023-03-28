@@ -13,7 +13,7 @@ I've been learning data science to switch careers. I started with R and Python, 
 * 🤔  I’m looking for a new career opportunity as a **Data Analyst**
 * 🧠  I'm learning **ChatGPT, Go and Full-Stack Developer Skills**
 * 🤝  I'm open to collaborating on **Data Science Projects**
-* ⚡  Fun fact : **FORTIS FORTUNA ADIUVAT - โชคย่อมเข้าข้างผู้กล้า**
+* ⚡  Fun fact : **FORTIS FORTUNA ADIUVAT - Fortune favours the bold**
 
 ### Skills
 
