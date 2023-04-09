@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jiras Adthsutanan (Jay)
 ==============================================================================================================================================
 
-Scientist | Content Developer
+Data Analyst | Content Developer
 -----------------------------
 
 I've been learning data science to switch careers. I started with R and Python, but have really found a passion for Data Analyst.
@@ -10,7 +10,6 @@ I've been learning data science to switch careers. I started with R and Python, 
 * 🌍  I'm based in **Bangkok, Thailand**
 * 🖥️  See my portfolio at **[My Port](http://www.jirasadthsutanan.com/)**
 * ✉️  You can contact me at **[jiras.adt@gmail.com](mailto:jiras.adt@gmail.com)**
-* 🤔  I’m looking for a new career opportunity as a **Data Analyst**
 * 🧠  I'm learning **ChatGPT, Go and Full-Stack Developer Skills**
 * 🤝  I'm open to collaborating on **Data Science Projects**
 * ⚡  Fun fact : **FORTIS FORTUNA ADIUVAT - Fortune favours the bold**
