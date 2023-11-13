@@ -44,5 +44,3 @@ I've been learning data science to switch careers. I started with R and Python, 
 <a href="http://www.github.com/Jiras-1996"><img src="https://github-readme-stats.vercel.app/api?username=Jiras-1996&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="Jiras-1996's GitHub stats" /></a>
 
 ![Jay's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiras-1996&layout=compact&theme=dracula)
-
-<a href="http://www.github.com/Jiras-1996"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jiras-1996&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
